@@ -5,7 +5,9 @@ import ListExample from './ListExample';
 function App() {
   return (
     <div className="App">
+      <h1>Amplify  Example</h1>
      <ListExample />
+      
     </div>
   );
 }
